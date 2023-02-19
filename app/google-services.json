@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1044828212292",
+    "project_id": "poopy-e6d48",
+    "storage_bucket": "poopy-e6d48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044828212292:android:98771725eb90e51feac011",
+        "android_client_info": {
+          "package_name": "com.example.poopy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044828212292-hcbkggveracfdka8hp8nf53i09eveot1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwgEvVuReZLjT_bSxblc5m5uePEGyQcYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044828212292-hcbkggveracfdka8hp8nf53i09eveot1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
